@@ -8,8 +8,7 @@ Additionally, this repository includes visualization and analysis components tai
 The associated paper has been under review at the journal Travel Behavior and Society.
 
 ## Files 
-The repository contains the following key files and scripts:CHAID machine learning
-Detects which personal attributes explain travel patterns
+The repository contains the following key files and scripts:
 
 * `Step1-Cleaning.R`: This script includes data reading, cleaning, and formatting (e.g., reclassifying the activity types and travel modes).
 * `Step2-CreateSeq.R`: This script creates sequences of trips and activities, defines a gender-based cost matrix, and measures the similarity of daily schedules.
